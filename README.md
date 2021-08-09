@@ -1,6 +1,6 @@
 #Spring MVC Framework
 
-###Spring MVC Framework Basic Partice
+###Spring MVC Framework Basic Practice
 
 SOLID, Dependency Injection, Spring Container, App Config, IoC,
-DI, Bean, BeanFactory, ApplicationContext, XML Bean Config,
+DI, Bean, BeanFactory, ApplicationContext, XML Bean Config, Bean Definition, 
