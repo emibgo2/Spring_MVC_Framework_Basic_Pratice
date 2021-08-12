@@ -5,5 +5,7 @@
 SOLID, Dependency Injection, Spring Container, App Config, IoC,
 DI, Bean, BeanFactory, ApplicationContext, XML Bean Config,
 Bean Definition, Web Application, Singleton Pattern, 
-Configuration and CGLIB, Component Scan and Filter, Autowired, Qualifier, Primary 
+Configuration and CGLIB, Component Scan and Filter, Autowired, 
+Qualifier, Primary, Scope, Prototype Scope, DL, ObjectProvider, 
+Fake proxy,
 
